@@ -5,6 +5,6 @@
 		<title>VRaptor Simple Project</title>
 	</head>
 	<body>
-		It works! ${string}.
+		It works! yayyyy!!!!! ${string}.
 	</body>
 </html>
